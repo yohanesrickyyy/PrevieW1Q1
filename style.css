@@ -36,6 +36,9 @@ a {
 
 #profile {
   margin: 40px;
+  display: grid;
+  align-items: center;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 
 img {
@@ -45,3 +48,9 @@ img {
   /* border-color: grey; */
   border-radius: 100%;
 }
+
+.description{
+  margin-left: 20px;
+  width: 1000px;
+}
+
