@@ -17,7 +17,7 @@ body {
   margin-top: 10px;
 }
 
-a {
+.link-nav {
   text-decoration: none;
   color: white;
   gap: 1.5px;
@@ -66,3 +66,23 @@ img {
   margin: 10px;
 }
 
+/* Footer */
+
+footer {
+  margin: 40px;
+}
+
+.footer-link {
+  border-right: 2px solid black;
+  padding: 5px;
+  margin-right: 10px;
+  text-align: center;
+}
+
+.footer-link-1 {
+  border-left: 2px solid grey;
+  padding: 1px;
+  margin-right: 10px;
+  text-align: center;
+  justify-content: center;
+}
