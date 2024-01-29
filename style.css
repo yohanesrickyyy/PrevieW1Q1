@@ -49,8 +49,20 @@ img {
   border-radius: 100%;
 }
 
-.description{
-  margin-left: 20px;
-  width: 1000px;
+.description {
+  margin-right: 650px;
+  width: 800px;
+}
+
+/* Project */
+
+#project {
+  margin: 40px 0 0 170px;
+}
+
+.project-list {
+  border: 1px solid grey;
+  padding: 10px;
+  margin: 10px;
 }
 
