@@ -24,10 +24,24 @@ a {
 }
 
 .text-link {
-  padding-left:5px;
+  padding-left: 5px;
   padding: 10px;
   margin-left: 20px;
   word-spacing: 1.5rem;
   justify-content: left;
   line-height: 50px;
+}
+
+/* Content Page */
+
+#profile {
+  margin: 40px;
+}
+
+img {
+  width: 120px;
+  border-style: none;
+  box-shadow: 0 0 10px 1px;
+  /* border-color: grey; */
+  border-radius: 100%;
 }
